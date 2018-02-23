@@ -1,0 +1,151 @@
+
+body {
+margin:0;
+padding:0;
+background-image : url(picks/grad.jpg); 
+background-repeat:repeat-x;
+background-color:#fff;
+color:#000;  
+text-align:center;
+font-family:Arial, Helvetica, sans-serif;
+font-size:1em;
+}
+
+a {
+color:#0B4D49;
+text-decoration:underline;
+}
+
+a:hover {
+color:#000;
+text-decoration:none;
+}
+
+blockquote {
+height:50px;
+background-image : url(picks/5.jpg); 
+background-repeat : no-repeat;
+margin: 0.4em 0em 1em 0em;
+padding: 0.5em;
+background-color:#fff;
+}
+
+blockquote p {
+margin:.2em;
+}
+
+#content {
+width:700px;
+margin-top:3em;
+margin-left: auto;
+margin-right:auto;
+padding:1em .5em 2em .5em;
+background-color:#fff;
+text-align:left;
+border:0px solid #999999;
+}
+
+img.left {
+float : left; 
+margin-right : 5px; 
+border : 0px outset #6d8458; 
+} 
+img.right {
+float : right; 
+margin-left : 5px; 
+border : 0px outset #6d8458; 
+} 
+
+#content h2 {
+margin:0 0 -.5em 0em;
+padding:0 0 0 0em;
+font-size:1.2em;
+color: #0B4D49;
+letter-spacing: 0.1em;
+}
+
+#header {
+background-image : url(picks/1.jpg); 
+margin:-1em -0.5em 0em -0.5em;
+padding:0 0 0 0;
+height: 135px;
+background-color:#fff;
+}
+
+#header h1 {
+margin:0 0em -.6em .3em;
+width:10em;
+padding: 0.2em 0 0 0em;
+font-family : "firenze sf", verdana, arial, sans-serif ; 
+font-size:1.8em;
+letter-spacing:.5em;
+background-color:#;
+}
+
+#header h2 {
+margin:3.9em 0 0 0em;
+padding:.2em 0 .2em 9.6em;
+font-size: 1.3em;
+font-weight:900;
+letter-spacing:0.5em;
+color:#fff;
+background-image : url(picks/2.jpg);
+}
+
+#nav {
+float:right;
+margin:0 0 1em 0;
+padding:.2em 0 0 0;
+background-image : url(#); 
+}
+
+#nav ul {
+margin:0;
+padding:0;
+list-style:none;
+}
+
+#nav li {
+margin:0;
+padding: .25em;
+display:inline;
+font-family : "kartika", verdana, arial, sans-serif ; 
+font-size:1.5em;
+}
+
+#nav li a {
+color:#000;
+text-decoration:none;
+}
+
+#nav li a:hover {
+color:#fff;
+text-decoration:none;
+}
+
+#footer {
+position:relative;
+margin:4em 0 0 0;
+padding:0;
+height:3em;
+line-height:4em;
+text-align:center;
+font-size: 1.0em;
+background-color:#;
+border-bottom:8px solid #000;
+border-left:8px solid #fff;
+border-right:8px solid #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
